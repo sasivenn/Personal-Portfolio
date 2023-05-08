@@ -87,7 +87,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "",
+          link: "http://sasikalyanvennamaneni.com/",
         },
       ],
     },
@@ -124,7 +124,7 @@ export const links = {
   cards: [
     {
       title: "My website",
-      link: "https://hashirshoaeb.com/",
+      link: "http://sasikalyanvennamaneni.com/",
     },
     {
       title: "My GitHub",
