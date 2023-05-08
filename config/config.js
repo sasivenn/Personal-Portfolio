@@ -87,7 +87,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "http://sasikalyanvennamaneni.com/",
+          link: "https://github.com/sasivenn/portofo",
         },
       ],
     },
