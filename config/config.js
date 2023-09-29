@@ -82,6 +82,18 @@ export const projects = {
       ],
     },
 
+    {
+      title: "IMDB Clone",
+      description:
+        "The IMDb clone project is a web application that replicates the functionality of the IMDb (Internet Movie Database) website, allowing users to search for movies, view details, and access information about films, actors, and ratings",
+      icons: [
+        {
+          icon: faGithub,
+          link: "https://github.com/sasivenn/IMDB-clone-ReactApp-master",
+        },
+      ],
+    },
+
 {
       title: "Recipe App",
       description:
