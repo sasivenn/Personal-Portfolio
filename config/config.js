@@ -148,5 +148,9 @@ export const links = {
       title: "My LinkedIn",
       link: "https://www.linkedin.com/in/sasi-kalyan-vennamaneni/",
     },
+    {
+      title:"AWS Certification",
+      link: " https://drive.google.com/file/d/1h23U3UzSmp0X4fQURVKVgzos0PHoyRFP/view?usp=drive_link",
+    },
   ],
 };
