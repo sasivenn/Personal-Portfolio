@@ -69,6 +69,20 @@ export const projects = {
         },
       ],
     },
+
+{
+      title: "ToDo Application",
+      description:
+        "Online Task management system that allows users to create, organize, and track their tasks and to-do lists efficiently.",
+      icons: [
+        {
+          icon: faGithub,
+          link: "https://github.com/sasivenn/ToDo",
+        },
+      ],
+    },
+
+
     {
       title: "Covid 19 Visualization",
       description:
