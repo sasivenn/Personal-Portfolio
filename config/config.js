@@ -82,6 +82,18 @@ export const projects = {
       ],
     },
 
+{
+      title: "Recipe App",
+      description:
+        "This application allows users to search for recipes based on ingredients and view detailed recipe information, including ingredients and instructions",
+      icons: [
+        {
+          icon: faGithub,
+          link: "https://github.com/sasivenn/recipeapp",
+        },
+      ],
+    },
+
 
     {
       title: "Covid 19 Visualization",
